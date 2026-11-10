@@ -1,0 +1,329 @@
+{
+  "slug": "awesome-ia-atendimento-e-vendas",
+  "language": "ko",
+  "title": "Awesome IA no atendimento e nas vendas",
+  "description": "업무를 응대하고 판매하는 사람을 위한 AI: 어시스턴트, 개인정보 보호, 소비자 권리, 그리고 카운터, 계산대, 전화 응대 업무의 노동 규칙.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI 어시스턴트",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iavend-chatgpt",
+          "description": "OpenAI의 어시스턴트로, 무료와 유료 요금제가 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iavend-claude",
+          "description": "Anthropic의 어시스턴트로, 무료와 유료 요금제가 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iavend-copilot",
+          "description": "Microsoft의 어시스턴트로, Windows와 Office 안에서도 쓸 수 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iavend-gemini",
+          "description": "Google의 어시스턴트로, Gmail과 Google Docs 안에서도 쓸 수 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI의 개인정보 보호",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iavend-anthropic-onde-mudar-o-treino",
+          "description": "Claude의 대화 내용이 모델 학습에 쓰이지 않도록 막는 방법.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iavend-google-atividade-do-gemini",
+          "description": "Gemini의 활동 기록을 끄는 방법과 그로 인해 달라지는 점.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iavend-microsoft-controles-de-privacidad",
+          "description": "Copilot의 개인정보 및 학습 관련 설정이 있는 곳.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iavend-openai-controles-de-dados",
+          "description": "ChatGPT의 대화 내용이 모델 학습에 쓰이지 않도록 막는 방법.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iavend-whatsapp-privacidade",
+          "description": "WhatsApp의 개인정보 정책 내용, Meta AI와 대화할 때의 내용 포함.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "consumidor",
+      "title": "소비자 상담 규정",
+      "items": [
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-codigo-de-defesa-do-consumidor",
+          "description": "Planalto에 정리된 CDC(소비자보호법).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-comercio-eletronico",
+          "description": "인터넷으로 판매하는 사람을 위한 규정이 담긴 Decreto 7.962/2013.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do SAC",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-sac",
+          "description": "고객 상담 서비스 규정이 담긴 Decreto 11.034/2022.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do atendimento prioritário",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l10048.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-atendimento-prioritario",
+          "description": "우선 응대 대상에 관한 Lei 10.048/2000.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Não Me Perturbe",
+          "url": "https://www.naomeperturbe.com.br/",
+          "link": "https://go.mymarketing.click/iavend-nao-me-perturbe",
+          "description": "통신사와 은행의 텔레마케팅 전화를 차단하는 등록 제도.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Prefixo 0303 na Anatel",
+          "url": "https://www.gov.br/anatel/pt-br/regulado/numeracao/telemarketing-ativo-prefixo-0303",
+          "link": "https://go.mymarketing.click/iavend-prefixo-0303-na-anatel",
+          "description": "텔레마케팅 발신 전화가 0303 번호 앞자리를 써야 한다는 규정.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "trabalho",
+      "title": "상담원의 권리",
+      "items": [
+        {
+          "name": "Lei do comerciário",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12790.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-comerciario",
+          "description": "상업 종사자의 직업을 규율하는 Lei 12.790/2013.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do vendedor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-vendedor",
+          "description": "판매원, 여행 영업사원, pracista에 관한 Lei 3.207/1957.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "TST: cobrança de metas por WhatsApp",
+          "url": "https://www.tst.jus.br/-/cobranca-de-metas-por-whatsapp-fora-do-expediente-extrapola-poder-do-empregador",
+          "link": "https://go.mymarketing.click/iavend-tst-cobranca-de-metas-por-whatsap",
+          "description": "근무시간 외 영업 목표 부과에 관한 TST 판결.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "empresas",
+      "title": "회사 계정의 AI",
+      "items": [
+        {
+          "name": "Copilot Chat da Microsoft",
+          "url": "https://learn.microsoft.com/en-us/copilot/privacy-and-protections",
+          "link": "https://go.mymarketing.click/iavend-copilot-chat-da-microsoft",
+          "description": "회사 계정에서 Copilot이 제공하는 데이터 보호 기능.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini no Google Workspace",
+          "url": "https://knowledge.workspace.google.com/admin/gemini/generative-ai-in-google-workspace-privacy-hub",
+          "link": "https://go.mymarketing.click/iavend-gemini-no-google-workspace",
+          "description": "회사 계정에서 Google이 Gemini 데이터를 다루는 방식.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "데이터 보호",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-lgpd",
+          "description": "Planalto에 정리된 LGPD(개인정보 보호법) 원문.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iavend-anpd",
+          "description": "LGPD의 가이드와 규정을 제공하는 ANPD(국가 개인정보 보호청).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "책과 키트",
+      "items": [
+        {
+          "name": "IA no atendimento e nas vendas (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-li",
+          "description": "O Novo Básico 시리즈 6권으로, 실제 AI로 직업 업무를 수행하고 모든 사실에 출처를 달았습니다.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no atendimento e nas vendas: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas/kit",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-o",
+          "description": "바로 쓸 수 있는 프롬프트, 확인할 항목 목록, 책의 출처가 웹사이트에서 열립니다.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "slug": "awesome-ia-atendimento-e-vendas",
+  "language": "en",
+  "title": "Awesome IA no atendimento e nas vendas",
+  "description": "AI for those who serve and sell: assistants, privacy, consumer rights, and the work rules for people at the counter, the register, and the phone.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI assistants",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iavend-chatgpt",
+          "description": "OpenAI's assistant, with a free plan and paid plans.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iavend-claude",
+          "description": "Anthropic's assistant, with a free plan and paid plans.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iavend-copilot",
+          "description": "Microsoft's assistant, also inside Windows and Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iavend-gemini",
+          "description": "Google's assistant, also inside Gmail and Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Privacy in AI",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iavend-anthropic-onde-mudar-o-treino",
+          "description": "How to stop your conversations in Claude from being used to train the model.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iavend-google-atividade-do-gemini",
+          "description": "How to turn off Gemini's activity history and what changes with it.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iavend-microsoft-controles-de-privacidad",
+          "description": "Where to find the privacy and training controls for Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iavend-openai-controles-de-dados",
+          "description": "How to stop conversations in ChatGPT from being used to train the model.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iavend-whatsapp-privacidade",
+          "description": "What WhatsApp says about privacy, including when you talk to Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "consumidor",
+      "title": "Consumer service rules",
+      "items": [
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-codigo-de-defesa-do-consumidor",
+          "description": "The CDC compiled on Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-comercio-eletronico",
+          "description": "Decree 7.962/2013, with the rules for those who sell online.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do SAC",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-sac",
+          "description": "Decree 11.034/2022, with the rules for consumer service.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do atendimento prioritário",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l10048.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-atendimento-prioritario",
+          "description": "Law 10.048/2000, on who has priority in service.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Não Me Perturbe",
+          "url": "https://www.naomeperturbe.com.br/",
+          "link": "https://go.mymarketing.click/iavend-nao-me-perturbe",
+          "description": "The registry to block telemarketing calls from carriers and banks.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Prefixo 0303 na Anatel",
+          "url": "https://www.gov.br/anatel/pt-br/regulado/numeracao/telemarketing-ativo-prefixo-0303",
+          "link": "https://go.mymarketing.click/iavend-prefixo-0303-na-anatel",
+          "description": "The rule requiring outbound telemarketing to call with the 0303 prefix.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "trabalho",
+      "title": "Rights of service workers",
+      "items": [
+        {
+          "name": "Lei do comerciário",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12790.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-comerciario",
+          "description": "Law 12.790/2013, which regulates the retail worker profession.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do vendedor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-vendedor",
+          "description": "Law 3.207/1957, on salespeople, travelers and pracistas.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "TST: cobrança de metas por WhatsApp",
+          "url": "https://www.tst.jus.br/-/cobranca-de-metas-por-whatsapp-fora-do-expediente-extrapola-poder-do-empregador",
+          "link": "https://go.mymarketing.click/iavend-tst-cobranca-de-metas-por-whatsap",
+          "description": "The TST decision on charging sales targets outside working hours.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "empresas",
+      "title": "AI in company accounts",
+      "items": [
+        {
+          "name": "Copilot Chat da Microsoft",
+          "url": "https://learn.microsoft.com/en-us/copilot/privacy-and-protections",
+          "link": "https://go.mymarketing.click/iavend-copilot-chat-da-microsoft",
+          "description": "Copilot's data protections in corporate accounts.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini no Google Workspace",
+          "url": "https://knowledge.workspace.google.com/admin/gemini/generative-ai-in-google-workspace-privacy-hub",
+          "link": "https://go.mymarketing.click/iavend-gemini-no-google-workspace",
+          "description": "How Google handles Gemini data in business accounts.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Data protection",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-lgpd",
+          "description": "The General Data Protection Law, in the text compiled on Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iavend-anpd",
+          "description": "The National Data Protection Authority, with guides and regulations under the LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Book and kit",
+      "items": [
+        {
+          "name": "IA no atendimento e nas vendas (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-li",
+          "description": "Volume 6 of the O Novo Básico series, with the profession's tasks done with real AI and every fact sourced.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no atendimento e nas vendas: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas/kit",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-o",
+          "description": "The ready-made prompts, the checklists, and the book's sources, open on the site.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "slug": "awesome-ia-atendimento-e-vendas",
+  "language": "zh",
+  "title": "Awesome IA no atendimento e nas vendas",
+  "description": "面向接待和销售人员的 AI：助手、隐私、消费者权益，以及柜台、收银和电话岗位的工作规定。",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI助手",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iavend-chatgpt",
+          "description": "OpenAI的助手，提供免费版和付费版。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iavend-claude",
+          "description": "Anthropic的助手，提供免费版和付费版。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iavend-copilot",
+          "description": "微软的助手，也内置于Windows和Office中。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iavend-gemini",
+          "description": "谷歌的助手，也内置于Gmail和Google Docs中。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI中的隐私",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iavend-anthropic-onde-mudar-o-treino",
+          "description": "如何阻止你在Claude中的对话被用于训练模型。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iavend-google-atividade-do-gemini",
+          "description": "如何关闭Gemini的活动记录，以及这样做会有什么变化。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iavend-microsoft-controles-de-privacidad",
+          "description": "Copilot的隐私和训练控制选项在哪里。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iavend-openai-controles-de-dados",
+          "description": "如何阻止你在ChatGPT中的对话被用于训练模型。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iavend-whatsapp-privacidade",
+          "description": "WhatsApp关于隐私的说明，包括与Meta AI对话时的情况。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "consumidor",
+      "title": "消费者服务规则",
+      "items": [
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-codigo-de-defesa-do-consumidor",
+          "description": "Planalto网站上汇编的《消费者保护法典》（CDC）。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-comercio-eletronico",
+          "description": "第7.962/2013号法令，规定网上销售者应遵守的规则。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do SAC",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-sac",
+          "description": "第11.034/2022号法令，规定消费者服务的相关规则。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do atendimento prioritário",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l10048.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-atendimento-prioritario",
+          "description": "第10.048/2000号法律，规定哪些人享有优先服务的权利。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Não Me Perturbe",
+          "url": "https://www.naomeperturbe.com.br/",
+          "link": "https://go.mymarketing.click/iavend-nao-me-perturbe",
+          "description": "用于拦截电信运营商和银行的推销电话的登记系统。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Prefixo 0303 na Anatel",
+          "url": "https://www.gov.br/anatel/pt-br/regulado/numeracao/telemarketing-ativo-prefixo-0303",
+          "link": "https://go.mymarketing.click/iavend-prefixo-0303-na-anatel",
+          "description": "要求主动推销电话必须以0303区号拨打的规定。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "trabalho",
+      "title": "服务人员的权利",
+      "items": [
+        {
+          "name": "Lei do comerciário",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12790.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-comerciario",
+          "description": "第12.790/2013号法律，规范商业工作者（comerciário）的职业。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do vendedor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-vendedor",
+          "description": "第3.207/1957号法律，涉及销售员、旅行推销员和pracista。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "TST: cobrança de metas por WhatsApp",
+          "url": "https://www.tst.jus.br/-/cobranca-de-metas-por-whatsapp-fora-do-expediente-extrapola-poder-do-empregador",
+          "link": "https://go.mymarketing.click/iavend-tst-cobranca-de-metas-por-whatsap",
+          "description": "TST关于下班后追加销售指标的裁决。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "empresas",
+      "title": "企业账户中的AI",
+      "items": [
+        {
+          "name": "Copilot Chat da Microsoft",
+          "url": "https://learn.microsoft.com/en-us/copilot/privacy-and-protections",
+          "link": "https://go.mymarketing.click/iavend-copilot-chat-da-microsoft",
+          "description": "企业账户中Copilot的数据保护措施。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini no Google Workspace",
+          "url": "https://knowledge.workspace.google.com/admin/gemini/generative-ai-in-google-workspace-privacy-hub",
+          "link": "https://go.mymarketing.click/iavend-gemini-no-google-workspace",
+          "description": "谷歌如何处理企业账户中Gemini的数据。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "数据保护",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-lgpd",
+          "description": "Planalto网站上汇编的《通用数据保护法》（LGPD）全文。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iavend-anpd",
+          "description": "国家数据保护局（ANPD），提供LGPD的指南和条例。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "书籍和套装",
+      "items": [
+        {
+          "name": "IA no atendimento e nas vendas (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-li",
+          "description": "O Novo Básico系列第6卷，用AI完成该职业的真实任务，并为每项事实注明来源。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no atendimento e nas vendas: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas/kit",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-o",
+          "description": "打开网站即可使用的现成提示词、检查清单和书籍资料来源。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

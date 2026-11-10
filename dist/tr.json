@@ -1,0 +1,329 @@
+{
+  "slug": "awesome-ia-atendimento-e-vendas",
+  "language": "tr",
+  "title": "Awesome IA no atendimento e nas vendas",
+  "description": "Satış yapan ve müşteriyle ilgilenenler için yapay zekâ: asistanlar, gizlilik, tüketici hakları ve tezgâhta, kasada ve telefonda çalışanların iş kuralları.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Yapay zeka asistanları",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iavend-chatgpt",
+          "description": "OpenAI'ın asistanı; ücretsiz ve ücretli planları var.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iavend-claude",
+          "description": "Anthropic'in asistanı; ücretsiz ve ücretli planları var.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iavend-copilot",
+          "description": "Microsoft'un asistanı; Windows ve Office içinde de çalışır.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iavend-gemini",
+          "description": "Google'ın asistanı; Gmail ve Google Docs içinde de çalışır.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Yapay zekalarda gizlilik",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iavend-anthropic-onde-mudar-o-treino",
+          "description": "Claude'daki konuşmalarınızın model eğitiminde kullanılmasını nasıl önleyebileceğiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iavend-google-atividade-do-gemini",
+          "description": "Gemini'nin etkinlik geçmişini nasıl kapatabileceğiniz ve bunun neyi değiştirdiği.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iavend-microsoft-controles-de-privacidad",
+          "description": "Copilot'un gizlilik ve eğitim denetimlerinin nerede olduğu.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iavend-openai-controles-de-dados",
+          "description": "ChatGPT'deki konuşmalarınızın model eğitiminde kullanılmasını nasıl önleyebileceğiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iavend-whatsapp-privacidade",
+          "description": "WhatsApp'ın gizlilik konusunda ne dediği; Meta AI ile konuşulduğunda da dahil.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "consumidor",
+      "title": "Tüketici hizmetleri kuralları",
+      "items": [
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-codigo-de-defesa-do-consumidor",
+          "description": "Planalto'da derlenmiş CDC (Tüketici Koruma Kanunu).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-comercio-eletronico",
+          "description": "İnternetten satış yapanların kurallarını içeren 7.962/2013 sayılı Kararname.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do SAC",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-sac",
+          "description": "Tüketici hizmetleri kurallarını içeren 11.034/2022 sayılı Kararname.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do atendimento prioritário",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l10048.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-atendimento-prioritario",
+          "description": "Hizmette öncelik sahiplerini belirleyen 10.048/2000 sayılı Kanun.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Não Me Perturbe",
+          "url": "https://www.naomeperturbe.com.br/",
+          "link": "https://go.mymarketing.click/iavend-nao-me-perturbe",
+          "description": "Operatörler ve bankalardan gelen telemarketing çağrılarını engellemek için kayıt.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Prefixo 0303 na Anatel",
+          "url": "https://www.gov.br/anatel/pt-br/regulado/numeracao/telemarketing-ativo-prefixo-0303",
+          "link": "https://go.mymarketing.click/iavend-prefixo-0303-na-anatel",
+          "description": "Aktif telemarketingin 0303 öneki ile arama yapmasını zorunlu kılan kural.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "trabalho",
+      "title": "Çalışanların hakları",
+      "items": [
+        {
+          "name": "Lei do comerciário",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12790.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-comerciario",
+          "description": "Ticaret çalışanlarının mesleğini düzenleyen 12.790/2013 sayılı Kanun.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do vendedor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-vendedor",
+          "description": "Satıcılar, gezginci tacirler ve pracistalar hakkında 3.207/1957 sayılı Kanun.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "TST: cobrança de metas por WhatsApp",
+          "url": "https://www.tst.jus.br/-/cobranca-de-metas-por-whatsapp-fora-do-expediente-extrapola-poder-do-empregador",
+          "link": "https://go.mymarketing.click/iavend-tst-cobranca-de-metas-por-whatsap",
+          "description": "TST'nin mesai dışı hedef takibi hakkındaki kararı.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "empresas",
+      "title": "Şirket hesaplarında yapay zeka",
+      "items": [
+        {
+          "name": "Copilot Chat da Microsoft",
+          "url": "https://learn.microsoft.com/en-us/copilot/privacy-and-protections",
+          "link": "https://go.mymarketing.click/iavend-copilot-chat-da-microsoft",
+          "description": "Kurumsal hesaplarda Copilot'un veri koruma önlemleri.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini no Google Workspace",
+          "url": "https://knowledge.workspace.google.com/admin/gemini/generative-ai-in-google-workspace-privacy-hub",
+          "link": "https://go.mymarketing.click/iavend-gemini-no-google-workspace",
+          "description": "Google'ın şirket hesaplarında Gemini verilerini nasıl ele aldığı.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Veri koruma",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-lgpd",
+          "description": "Planalto'da derlenmiş metin hâlinde Genel Veri Koruma Kanunu (LGPD).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iavend-anpd",
+          "description": "LGPD kapsamında rehberler ve yönetmelikler sunan Ulusal Veri Koruma Otoritesi (ANPD).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Kitap ve kit",
+      "items": [
+        {
+          "name": "IA no atendimento e nas vendas (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-li",
+          "description": "O Novo Básico serisinin 6. cildi; mesleğin görevleri gerçek yapay zekayla yapılır ve her bilgi kaynaklıdır.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no atendimento e nas vendas: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas/kit",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-o",
+          "description": "Hazır istemler, kontrol listeleri ve kitabın kaynakları, sitede açık.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

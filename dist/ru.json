@@ -1,0 +1,329 @@
+{
+  "slug": "awesome-ia-atendimento-e-vendas",
+  "language": "ru",
+  "title": "Awesome IA no atendimento e nas vendas",
+  "description": "ИИ для тех, кто обслуживает и продаёт: ассистенты, конфиденциальность, права потребителя и трудовые правила для тех, кто работает за прилавком, на кассе и по телефону.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "ИИ-ассистенты",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iavend-chatgpt",
+          "description": "Ассистент OpenAI с бесплатным и платными тарифами.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iavend-claude",
+          "description": "Ассистент Anthropic с бесплатным и платными тарифами.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iavend-copilot",
+          "description": "Ассистент Microsoft, также встроенный в Windows и Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iavend-gemini",
+          "description": "Ассистент Google, также встроенный в Gmail и Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Конфиденциальность в ИИ",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iavend-anthropic-onde-mudar-o-treino",
+          "description": "Как не допустить использования ваших диалогов в Claude для обучения модели.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iavend-google-atividade-do-gemini",
+          "description": "Как отключить историю активности Gemini и что это изменит.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iavend-microsoft-controles-de-privacidad",
+          "description": "Где находятся настройки конфиденциальности и обучения Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iavend-openai-controles-de-dados",
+          "description": "Как не допустить использования диалогов в ChatGPT для обучения модели.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iavend-whatsapp-privacidade",
+          "description": "Что WhatsApp сообщает о конфиденциальности, в том числе при общении с Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "consumidor",
+      "title": "Правила обслуживания потребителей",
+      "items": [
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-codigo-de-defesa-do-consumidor",
+          "description": "CDC в сборке на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-comercio-eletronico",
+          "description": "Декрет 7.962/2013 с правилами для продавцов, работающих через интернет.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do SAC",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm",
+          "link": "https://go.mymarketing.click/iavend-decreto-do-sac",
+          "description": "Декрет 11.034/2022 с правилами службы обслуживания потребителей.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do atendimento prioritário",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l10048.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-atendimento-prioritario",
+          "description": "Закон 10.048/2000 о том, кто имеет приоритет в обслуживании.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Não Me Perturbe",
+          "url": "https://www.naomeperturbe.com.br/",
+          "link": "https://go.mymarketing.click/iavend-nao-me-perturbe",
+          "description": "Реестр для блокировки звонков телемаркетинга от операторов и банков.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Prefixo 0303 na Anatel",
+          "url": "https://www.gov.br/anatel/pt-br/regulado/numeracao/telemarketing-ativo-prefixo-0303",
+          "link": "https://go.mymarketing.click/iavend-prefixo-0303-na-anatel",
+          "description": "Правило, обязывающее исходящий телемаркетинг звонить с префиксом 0303.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "trabalho",
+      "title": "Права сотрудников службы поддержки",
+      "items": [
+        {
+          "name": "Lei do comerciário",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12790.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-comerciario",
+          "description": "Закон 12.790/2013, регулирующий профессию торгового работника.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do vendedor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l3207.htm",
+          "link": "https://go.mymarketing.click/iavend-lei-do-vendedor",
+          "description": "Закон 3.207/1957 о продавцах, коммивояжёрах и пракистас.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "TST: cobrança de metas por WhatsApp",
+          "url": "https://www.tst.jus.br/-/cobranca-de-metas-por-whatsapp-fora-do-expediente-extrapola-poder-do-empregador",
+          "link": "https://go.mymarketing.click/iavend-tst-cobranca-de-metas-por-whatsap",
+          "description": "Решение TST о взыскании план продаж вне рабочего времени.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "empresas",
+      "title": "ИИ в компаниях",
+      "items": [
+        {
+          "name": "Copilot Chat da Microsoft",
+          "url": "https://learn.microsoft.com/en-us/copilot/privacy-and-protections",
+          "link": "https://go.mymarketing.click/iavend-copilot-chat-da-microsoft",
+          "description": "Защита данных Copilot в корпоративных аккаунтах.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini no Google Workspace",
+          "url": "https://knowledge.workspace.google.com/admin/gemini/generative-ai-in-google-workspace-privacy-hub",
+          "link": "https://go.mymarketing.click/iavend-gemini-no-google-workspace",
+          "description": "Как Google обрабатывает данные Gemini в корпоративных аккаунтах.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Защита данных",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iavend-lgpd",
+          "description": "Общий закон о защите данных в тексте, собранном на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iavend-anpd",
+          "description": "Национальное управление по защите данных с руководствами и нормативами LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Книга и комплект",
+      "items": [
+        {
+          "name": "IA no atendimento e nas vendas (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-li",
+          "description": "Том 6 серии O Novo Básico, где задачи профессии выполнены с помощью ИИ по-настоящему и каждый факт с источником.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no atendimento e nas vendas: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas/kit",
+          "link": "https://go.mymarketing.click/iavend-ia-no-atendimento-e-nas-vendas-o",
+          "description": "Готовые промпты, списки для проверки и источники из книги, открытые на сайте.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
